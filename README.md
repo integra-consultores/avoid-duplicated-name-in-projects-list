@@ -1,4 +1,5 @@
-= avoid_duplicated_name_in_projects_list
+avoid_duplicated_name_in_projects_list
+---------------------------------------
 
 This plugin modify the index page of projects to show ancestors' name (no link) of visible projects, even when ancestors are not visible.
 
